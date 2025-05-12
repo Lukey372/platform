@@ -16,7 +16,7 @@ Fill out all required fields in the format below.
 
 Submit the issue and we will review it as soon as possible.
 
-🐛 Bug Report Format
+```🐛 Bug Report Format
 
 When reporting a bug, please include the following details to help us diagnose and fix the issue quickly:
 
@@ -52,9 +52,7 @@ Attach any relevant screenshots or copy-paste error messages and console logs.
 - **High:** Blocks major functionality.
 
 **Additional Context:**
-Any other information that might help, such as recent changes, account details, or related issues.
-
-
+Any other information that might help, such as recent changes, account details, or related issues.```
 
 
 🔎 Troubleshooting Tips
