@@ -1,4 +1,4 @@
-# Tilt.wtf Bug Reporting
+# Tilt.wtf Bug Reporting + Feature Requests
 
 Bug Reporting for tilt.wtf
 
